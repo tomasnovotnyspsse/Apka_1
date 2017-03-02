@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apka_1</string>
+    <string name="Hello_world">Nazdar světe</string>
+    <string name="tap_me">Klikni na mně!</string>
+    <string name="Hmotnost_txt">Hmotnost</string>
+    <string name="Vyska_txt">Vyska</string>
+    <string name="Vypoctitxt">Vypočítej</string>
+    <string name="BMItxt">BMI</string>
+</resources>
